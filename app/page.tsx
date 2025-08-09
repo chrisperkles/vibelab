@@ -1,6 +1,6 @@
 "use client"
 
-import ComingSoonPage from "../coming-soon"
+import ComingSoonPage from "@/components/coming-soon"
 
 export default function SyntheticV0PageForDeployment() {
   return <ComingSoonPage />
